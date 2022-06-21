@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victorthedev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning css and javascript
 - 💞️ I’m looking to collaborate on front end web dev
 - 📫 How to reach me ubahakweemeka@gmail.com
 
