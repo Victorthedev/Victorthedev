@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Victorthedev
-- 👀 I’m interested in web development and Cloud Infrastructure
-- 🌱 I’m currently learning javascript, Python and Linux
+- 👀 I’m interested in backend development and Cloud Infrastructure
+- 🌱 I’m currently learning NodeJS, Python, Linux and databases
 - 💞️ I’m looking to collaborate on frontend, backend and cloud projects
 - 📫 How to reach me ubahakweemeka@gmail.com
 
